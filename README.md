@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # 맥 사진 자동 분류 (Mac Photo Auto Sort)
 
 `PhotoInbox` 폴더에 사진/동영상을 넣으면 촬영일(EXIF) 기준으로
